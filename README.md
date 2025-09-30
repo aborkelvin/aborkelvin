@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi there 👋, I'm Anthony  
 
   
-💻 **Frontend Developer | Software Engineering Intern @ Seamfix**  
+💻 **Frontend Developer | Software Engineer**  
 🚀 Passionate about building scalable software products   
 🎓 **First-Class Graduate in Electronic Engineering**
 
